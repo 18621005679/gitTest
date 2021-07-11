@@ -1,6 +1,0 @@
-This is the first line!
-this is the second line!
-this is rhe third line!
-dev
-dev2
-dev4
